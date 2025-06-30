@@ -102,7 +102,7 @@ The search results also mention **RED III** (Directive (EU) 2023/2413), which is
 - **Deadline Awareness**:
   - Prepare for the **August 1, 2025**, mandatory compliance deadline to avoid market access issues in the EU.[](https://finitestate.io/blog/eu-red-article-3-3-cybersecurity)
 
- **ISO/SAE 21434:2021 – Road Vehicles – Cybersecurity Engineering**
+ # ISO/SAE 21434:2021 – Road Vehicles – Cybersecurity Engineering
 
 **ISO/SAE 21434:2021 – Road Vehicles – Cybersecurity Engineering** is an international standard that provides a framework for managing cybersecurity risks in automotive systems throughout their lifecycle. It is specifically designed to address the growing threat of cyberattacks on connected vehicles, ensuring the security of electrical and electronic (E/E) systems, including components like infotainment systems, instrument clusters, and Telematics Control Units (TCUs), as referenced in your previous queries. Below is a concise overview of the standard, its purpose, structure, and application, tailored to the automotive penetration testing context.
 
