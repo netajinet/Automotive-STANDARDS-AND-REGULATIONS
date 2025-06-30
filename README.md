@@ -208,7 +208,7 @@ For the **infotainment, instrument cluster, and TCU**:
   - TCU: Simulate GPS spoofing, test OTA update security, and assess V2X message integrity.
 - **Compliance**: Ensure alignment with ISO/SAE 21434 Clauses 6, 9, and 10, RED 3.3 for radio interfaces, and ISO 26262 for safety-critical functions.
 
-# UNECE WP.29 Regulations No. 155 (R155)** and **No. 156 (R156)
+# UNECE WP.29 Regulations No. 155 (R155) and No. 156 (R156)
 
 **UNECE WP.29 Regulations No. 155 (R155)** and **No. 156 (R156)** are regulatory frameworks established by the United Nations Economic Commission for Europe (UNECE) World Forum for Harmonization of Vehicle Regulations (WP.29) to address **cybersecurity** and **software updates** in road vehicles. These regulations are critical for ensuring the security of connected vehicles, including components like infotainment systems, instrument clusters, and Telematics Control Units (TCUs), as referenced in your previous queries. They align closely with **ISO/SAE 21434** for cybersecurity engineering and are mandatory for vehicle type approval in the 54 member countries of the 1958 UNECE Agreement, including the EU, UK, Japan, and South Korea. Below is a detailed overview of both regulations, their requirements, scope, and relevance to automotive penetration testing, incorporating recent updates based on available information.
 
